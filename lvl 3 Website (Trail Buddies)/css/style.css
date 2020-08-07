@@ -12,3 +12,12 @@ img {
 background-color: #cecaca;	
 }
 
+.TrailforksWidgetMap {
+	float: center;
+	height: 810px;
+	width: 800px;
+}
+
+.col-sm-8 {
+	float: center;
+}
