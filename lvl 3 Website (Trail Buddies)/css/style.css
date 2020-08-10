@@ -20,4 +20,5 @@ background-color: #cecaca;
 
 .col-sm-8 {
 	float: center;
+	max-width: 100%
 }
