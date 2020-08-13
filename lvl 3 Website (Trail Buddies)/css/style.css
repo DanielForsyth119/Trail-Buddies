@@ -18,7 +18,9 @@ background-color: #cecaca;
 	width: 800px;
 }
 
-.col-sm-1 {
+.col-xl-12 {
 	float: center;
 	max-width: 100%
 }
+
+
