@@ -9,7 +9,8 @@ img {
 }
 
 .container{
-background-color: #cecaca;	
+	background-color: #cecaca;	
+	margin: 30px;
 }
 
 .TrailforksWidgetMap {
@@ -30,3 +31,18 @@ background-color: #cecaca;
 	
 }
 
+h2,h5 {
+	font-family: 'Yrsa', serif;
+}
+
+h1 {
+	font-family: 'Heebo', sans-serif;
+}
+
+p {
+	font-family: 'Work Sans', sans-serif;
+}
+
+body {
+	background-color: #4f4f4f;
+}
