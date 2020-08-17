@@ -32,17 +32,23 @@ img {
 }
 
 h2,h5 {
-	font-family: 'Yrsa', serif;
+	font-family: 'Work Sans', sans-serif;
 }
 
 h1 {
-	font-family: 'Heebo', sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 p {
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'Hind', sans-serif;
 }
 
 body {
 	background-color: #4f4f4f;
+}
+
+
+.collapse.navbar-collapse {
+	display: flex;
+	justify-content: center;	
 }
